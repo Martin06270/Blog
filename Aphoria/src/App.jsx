@@ -1,8 +1,8 @@
-import Hero from './components/Hero'
+import Hero from './components/Hero.jsx'
 
 const App = () => {
   return (
-    <main>
+    <main className='relative min-h-screen w-screen overflow-x-hidden'>
 
       <Hero />
 
