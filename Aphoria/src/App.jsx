@@ -1,5 +1,5 @@
 import Hero from './components/Hero.jsx'
-import Navbar from './components/NavBar.jsx'
+import Navbar from "./components/Button.jsx"
 
 
 
